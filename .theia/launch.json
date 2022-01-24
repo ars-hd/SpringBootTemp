@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TutorialApplication",
+            "request": "launch",
+            "mainClass": "com.tutorial.tutorial.TutorialApplication",
+            "projectName": "tutorial"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "mainClass": "com.tutorial/tutorial"
+        }
+    ]
+}
